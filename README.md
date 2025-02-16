@@ -1,25 +1,46 @@
-Portfolio Website
+# Personal Portfolio Website
 
-This is a personal portfolio website showcasing projects, skills, and contact information. The website is built using HTML and CSS with a responsive and modern design.
+A modern and responsive portfolio website built with HTML, CSS, and JavaScript to showcase my projects and skills.
 
-Features
+## 🚀 Features
 
-Navigation Bar: Contains links to different sections of the website.
+- Responsive Design
+- Interactive UI Elements
+- Projects Showcase
+- Skills Section
+- Contact Form
+- Animated Text Effects
+- Modern Card Hover Effects
+- Smooth Scrolling Navigation
 
-Hero Section: Includes an introduction and a dynamic role animation.
+## 💻 Tech Stack
 
-Projects Section: Highlights personal projects with descriptions and technology stacks.
+- HTML5
+- CSS3
+- JavaScript
+- [Typed.js](https://github.com/mattboldt/typed.js/) - For text animation
+- [Font Awesome](https://fontawesome.com/) - For icons
 
-Skills Section: Showcases technical skills using logos.
+## 📋 Project Sections
 
-Contact Section: A contact form for visitors to reach out.
+1. **Hero Section**
+   - Animated introduction text
+   - Call-to-action button
+   - Floating animation effects
 
-Responsive Design: Adjusts layout for different screen sizes.
+2. **Projects Section**
+   - Project cards with hover effects
+   - Technology stack icons
+   - Project descriptions
+   - Links to live demos and GitHub repositories
 
-Technologies Used
+3. **Skills Section**
+   - Tech stack showcase
+   - Animated skill logos
+   - About me description
 
-HTML5: Structuring the content of the website.
+4. **Contact Section**
+   - Contact form
+   - Social media links
+   - Footer navigation
 
-CSS3: Styling and animations for an enhanced user experience.
-
-JavaScript (Typed.js & FontAwesome): Used for dynamic typing animation and icons.
